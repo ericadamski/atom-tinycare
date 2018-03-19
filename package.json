@@ -1,0 +1,21 @@
+{
+  "name": "tinycare",
+  "main": "./lib/tinycare",
+  "version": "0.1.0",
+  "description":
+    "💖💻 - A little package to bring care to your vscode, heavily influenced by https://github.com/notwaldorf/tiny-care-terminal",
+  "keywords": [],
+  "repository": "https://github.com/ericadamski/atom-tinycare",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "rxjs": "^5.5.7",
+    "tinycare": "^1.0.0",
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {
+    "prettier": "^1.11.1"
+  }
+}
