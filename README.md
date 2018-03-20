@@ -1,4 +1,4 @@
-# vscode-tinycare 🤗
+# atom-tinycare 🤗
 
 A simple extension that brings some care to atom. Gets tweets from @tinycarebot and returns them to you every 30 minutes unless you take a break of at least a minute.
 
